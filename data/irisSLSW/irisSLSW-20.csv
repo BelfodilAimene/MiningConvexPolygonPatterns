@@ -1,0 +1,21 @@
+row id,sepal_length,sepal_width,class
+139,4.8,1.8,Iris-virginica
+26,1.6,0.2,Iris-setosa
+57,4.7,1.6,Iris-versicolor
+136,6.1,2.3,Iris-virginica
+96,4.2,1.2,Iris-versicolor
+79,4.5,1.5,Iris-versicolor
+81,3.8,1.1,Iris-versicolor
+18,1.4,0.3,Iris-setosa
+21,1.7,0.2,Iris-setosa
+106,6.6,2.1,Iris-virginica
+10,1.5,0.1,Iris-setosa
+30,1.6,0.2,Iris-setosa
+92,4.6,1.4,Iris-versicolor
+2,1.4,0.2,Iris-setosa
+112,5.3,1.9,Iris-virginica
+29,1.4,0.2,Iris-setosa
+76,4.4,1.4,Iris-versicolor
+38,1.5,0.1,Iris-setosa
+3,1.3,0.2,Iris-setosa
+53,4.9,1.5,Iris-versicolor

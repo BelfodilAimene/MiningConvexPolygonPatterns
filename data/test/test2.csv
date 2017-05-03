@@ -1,0 +1,6 @@
+row id,sepal_length,sepal_width,class
+0,22,6,Iris-virginica
+1,0,0,Iris-setosa
+2,21,4,Iris-versicolor
+3,18,3,Iris-versicolor
+4,12,0,Iris-versicolor
